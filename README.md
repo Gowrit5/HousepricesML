@@ -1,6 +1,6 @@
 This project aims to predict house prices using various machine learning models, including Gradient Boosting, K-Neighbors, and Decision Tree Regressors. The dataset is cleaned, processed, and then models are trained and evaluated for performance. The best model is then used to predict house prices on a test dataset.
 
-Models Used
+**Models Used**
 
 1. **Gradient Boosting Regressor**:
     - Ensemble learning technique that combines multiple weak models to create a strong predictive model
